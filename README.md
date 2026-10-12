@@ -3,9 +3,9 @@
 <h1 align="center">Howdy, my name is RealKnight14</h1>
 <h3 align="center">A 23 y/o Beginner Developer from the United Kingdom, I am learning HTML & C# using VS Code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=realknight14&label=Profile%20views&color=0e75b6&style=flat" alt="realknight14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=realknight14&label=Profile%20views&color=0e75b6&style=flat" alt="realknight03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realknight14" alt="realknight14" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realknight14" alt="realknight03" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/realknight14" target="blank"><img src="https://img.shields.io/twitter/follow/realknight14?logo=twitter&style=for-the-badge" alt="realknight14" /></a> </p>
 
