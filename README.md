@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/beagGqU.png">
 
 <h1 align="center">Howdy, my name is RealKnight14</h1>
-<h3 align="center">A 20 y/o Beginner Developer from the United Kingdom, I am learning HTML & C# using VS Code</h3>
+<h3 align="center">A 23 y/o Beginner Developer from the United Kingdom, I am learning HTML & C# using VS Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realknight14&label=Profile%20views&color=0e75b6&style=flat" alt="realknight14" /> </p>
 
@@ -13,10 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/realknight14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realknight14" height="30" width="40" /></a>
-<a href="https://instagram.com/realknight14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realknight14" height="30" width="40" /></a>
+<a href="https://twitter.com/realknight03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realknight14" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/realknight14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="realknight14" height="30" width="40" /></a>
-<a href="https://discord.gg/riverrain123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="riverrain123" height="30" width="40" /></a>
+<a href="[https://discord.gg/clockmc.net](https://discord.gg/DuGEhSPzzw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="riverrain123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
